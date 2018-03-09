@@ -84,7 +84,7 @@
   </dependencies>
 
   <build>
-    <finalName>e3-manager-web</finalName>
+    <finalName>e3-manager-service</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
